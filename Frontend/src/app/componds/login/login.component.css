@@ -1,0 +1,49 @@
+.div1 {
+    max-width: 400px; /* Adjust based on your design */
+    margin: auto; /* Center align the form */
+    padding: 20px;
+    background-color: #f9f9f9; /* Light background color */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+  
+    /* Optional: Add additional padding or margin if needed */
+  }
+  
+  .text-center {
+    margin-bottom: 20px; /* Space between logo and form */
+  }
+  
+  .company-logo {
+    max-width: 100px; /* Adjust size as needed */
+    margin-bottom: 20px; /* Space between logo and form */
+  }
+  
+  .form-group {
+    margin-bottom: 20px; /* Space between form groups */
+  }
+  
+  .btn-primary {
+    width: 100%; /* Full-width button */
+  }
+  
+  .text-danger {
+    font-size: 14px; /* Adjust error message font size */
+  }
+  
+  /* Optional: Style form inputs for consistency */
+  input[type="text"],
+  input[type="password"] {
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+  
+  /* Optional: Customize form label styles */
+  label {
+    font-weight: bold;
+  }
+  .regisration{
+    margin-left: 10%;
+    margin-top: 5%;
+  }
