@@ -1,0 +1,11 @@
+#git commands
+
+before trying to push data always 1st pull to your local repository
+for that use 
+git fetch
+git pull
+
+after this
+git add .
+git commit -m "massage"
+git push
