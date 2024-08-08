@@ -1,0 +1,2 @@
+1)API for adding customer
+http://localhost:8383/customer/newCustomer
