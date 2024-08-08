@@ -6,6 +6,6 @@ git fetch
 git pull
 
 after this
-git add .
+git merge <file-name>
 git commit -m "massage"
 git push
